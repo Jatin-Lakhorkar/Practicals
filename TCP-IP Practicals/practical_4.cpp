@@ -97,7 +97,7 @@ int main()
     system("CLS");
     string str;
     int a;
-    cout << "Name : Jatin Lakhorkar\tRoll No : 49\tBatch : C2\n\nAim: Implement the following framing techniques n C/C++ environment.";
+    cout << "Aim: Implement the following framing techniques n C/C++ environment.";
     cout << "\n1]. Byte/Character Stuffing technique\n2]. Bit Stuffing technique\n3]. Character count framing technique\n";
   b:cout<<"\nEnter The Framing Technique to be used : ";
     cin >> a;
